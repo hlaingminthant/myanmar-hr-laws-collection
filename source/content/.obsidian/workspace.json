@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Laws/၁၉၅၁ ခုနှစ်၊ ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက် အက်ဥပဒေ.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "၁၉၅၁ ခုနှစ်၊ ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက် အက်ဥပဒေ"
             }
           }
         ],
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Laws/၁၉၅၁ ခုနှစ်၊ ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက် အက်ဥပဒေ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for ၁၉၅၁ ခုနှစ်၊ ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက် အက်ဥပဒေ"
             }
           },
           {
@@ -118,12 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Laws/၁၉၅၁ ခုနှစ်၊ ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက် အက်ဥပဒေ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from ၁၉၅၁ ခုနှစ်၊ ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက် အက်ဥပဒေ"
             }
           },
           {
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Laws/၁၉၅၁ ခုနှစ်၊ ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက် အက်ဥပဒေ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of ၁၉၅၁ ခုနှစ်၊ ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက် အက်ဥပဒေ"
             }
           }
         ]
@@ -176,10 +176,10 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "category-folder/Some note.md",
-    "category-folder/၁၉၅၁ ခုနှစ်၊ ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက် အက်ဥပဒေ.md",
-    "category-folder/index.md",
+    "Laws/၂၀၁၈ခုနှစ်၊ ခွင့်ရက်နှင့်အလုပ်ပိတ်ရက် နည်းဥပဒေများ.md",
     "index.md",
-    "category-folder"
+    "Laws/၁၉၅၁ ခုနှစ်၊ ခွင့်ရက်နှင့် အလုပ်ပိတ်ရက် အက်ဥပဒေ.md",
+    "category-folder/index.md",
+    "Laws"
   ]
 }
