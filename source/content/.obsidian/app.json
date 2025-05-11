@@ -1,5 +1,6 @@
 {
   "showInlineTitle": false,
   "trashOption": "local",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

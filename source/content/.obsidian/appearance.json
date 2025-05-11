@@ -1,3 +1,7 @@
 {
-  "showViewHeader": true
+  "showViewHeader": true,
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "UI Width"
+  ]
 }
