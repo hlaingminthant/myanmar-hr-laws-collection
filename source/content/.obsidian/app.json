@@ -2,5 +2,6 @@
   "showInlineTitle": false,
   "trashOption": "local",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
